@@ -26,4 +26,10 @@ public class LoginTest extends TestBase {
         System.out.println( "Login Test Method." );
     }
 
+    @Test
+    public void logOut(){
+        System.out.println( "Login Test Method." );
+    }
+
+
 }
